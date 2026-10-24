@@ -158,7 +158,7 @@ const Footer = () => {
             </div>
             <div className={classes.footerBottom}>
                 <div className={classes.footerCredits}>
-                    Snack and All LLC © 2024. All Rights Reserved
+                    Snacks and All LLC © 2026. All Rights Reserved
                 </div>
                 <div className={classes.footerPaymentMethods}>
                     {
